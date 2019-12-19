@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "542B785993.travel.ozon.app.dev",
+            "paths": ["/pathTest/*"]
+        }]
+    }
+}
